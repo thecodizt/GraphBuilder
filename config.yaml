@@ -1,0 +1,4 @@
+input_files:
+  - data/input/sample_data_1.csv
+  - data/input/sample_data_2.csv
+  - data/input/sample_data_3.csv
